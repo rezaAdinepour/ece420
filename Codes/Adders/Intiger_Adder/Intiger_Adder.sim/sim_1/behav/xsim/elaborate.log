@@ -1,0 +1,19 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /media/reza/_dev_sda1/Vivado/2023.2/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot tb_int_adder_behav xil_defaultlib.tb_int_adder -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1537] value 10 is out of target constraint range 0 to 7 [/mnt/9636D17436D15639/Tutorial/FPGA/VHDL/ece420/Codes/Adders/Intiger_Adder/Intiger_Adder.srcs/sim_1/new/tb_int_adder.vhd:59]
+WARNING: [VRFC 10-1537] value 12 is out of target constraint range 0 to 7 [/mnt/9636D17436D15639/Tutorial/FPGA/VHDL/ece420/Codes/Adders/Intiger_Adder/Intiger_Adder.srcs/sim_1/new/tb_int_adder.vhd:60]
+WARNING: [VRFC 10-1537] value 8 is out of target constraint range 0 to 7 [/mnt/9636D17436D15639/Tutorial/FPGA/VHDL/ece420/Codes/Adders/Intiger_Adder/Intiger_Adder.srcs/sim_1/new/tb_int_adder.vhd:63]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.int_adder [int_adder_default]
+Compiling architecture behavior of entity xil_defaultlib.tb_int_adder
+Built simulation snapshot tb_int_adder_behav

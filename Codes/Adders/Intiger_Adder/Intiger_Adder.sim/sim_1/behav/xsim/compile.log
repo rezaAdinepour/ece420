@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/mnt/9636D17436D15639/Tutorial/FPGA/VHDL/ece420/Codes/Adders/Intiger_Adder/Intiger_Adder.srcs/sources_1/new/int_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'int_adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "/mnt/9636D17436D15639/Tutorial/FPGA/VHDL/ece420/Codes/Adders/Intiger_Adder/Intiger_Adder.srcs/sim_1/new/tb_int_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_int_adder'
